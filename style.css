@@ -52,7 +52,7 @@ body {
   background-color: grey;
 }
 
-@media (max-width: 500px){
+@media (max-width: 800px){
   #level-title {
     font-family: 'Press Start 2P', cursive;
     font-size: 15px;
